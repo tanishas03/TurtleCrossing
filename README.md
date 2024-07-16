@@ -1,4 +1,3 @@
-# TurtleCrossing
 # Turtle Crossing Game
 
 Welcome to the Turtle Crossing Game! This is a simple yet fun game built using Python's Turtle graphics library. The goal of the game is to help the turtle cross the road without getting hit by cars. As the turtle successfully crosses the road, the level increases, and the speed of the cars increases, making the game more challenging.
@@ -8,10 +7,6 @@ Welcome to the Turtle Crossing Game! This is a simple yet fun game built using P
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Gameplay](#gameplay)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
